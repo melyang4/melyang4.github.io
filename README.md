@@ -1,7 +1,15 @@
 ## Melinda A. Yang
 
-Peruse to explore my research interests and career! For my blog, please click on the left.
+Peruse to explore my research interests and career! For my (currently non-existent, stay tuned!) blog, please click [here](https://melyang4.github.io/blogs/).
 
+I am a postdoctoral fellow at the Chinese Academy of Sciences Institute of Vertebrate Paleontology and Paleoanthropology. I work with Professor Qiaomei Fu, using DNA retrieved from ancient and present-day humans and population genomic analyses to increase our understanding of past human history. 
+
+The major questions that motivate my research include:
+
+1. What can we understand about the population history of ancient humans and how does that inform the history of present-day human populations? 
+2. Do biological patterns of continuity, admixture or replacement reflect cultural patterns observed in the archaeological and historical record, and how do the similarities and differences increase our understanding of human population dynamics?
+
+I am largely motivated by archaeological questions (Anthropology), using an evolutionary genetic framework (Biology), which in turn relies heavily upon statistical theory and programming skills (Mathematics and Computer Science).
 
 
 
