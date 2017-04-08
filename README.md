@@ -1,3 +1,10 @@
+## Melinda A. Yang
+
+Peruse to explore my research interests and career! For my blog, please click on the left.
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/melyang4/melyang4.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
