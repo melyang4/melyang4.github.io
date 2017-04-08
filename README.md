@@ -1,6 +1,6 @@
 ## Melinda A. Yang
 
-Peruse to explore my research interests and career! For my (currently non-existent, stay tuned!) blog, please click [here](https://melyang4.github.io/blogs/).
+Peruse to explore my research interests and career! For my (currently non-existent, stay tuned!) blog, please click [here](https://melyang4.github.io/blog/).
 
 I am a postdoctoral fellow at the Chinese Academy of Sciences Institute of Vertebrate Paleontology and Paleoanthropology. I work with Professor Qiaomei Fu, using DNA retrieved from ancient and present-day humans and population genomic analyses to increase our understanding of past human history. 
 
